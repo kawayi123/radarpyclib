@@ -13,7 +13,7 @@
     "babel": "^5.8.21",
     "coffee-script": "^1.8.0",
     "deep-equal": "0.0.0",
-    "extend": "~1.2.0",
+    "extend": "~3.0.2",
     "lodash": "^3.5.0",
     "mocha": "^2.1.0",
     "request": "^2.47.0",
